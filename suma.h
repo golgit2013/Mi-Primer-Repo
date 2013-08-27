@@ -10,7 +10,7 @@ class Suma
 };
 int Suma::sumaFunc(int sum1, int sum2)
 {
-	a=sum1;
+	a=sum1;h
 	b=sum2;
 	result=a+b;
 	return (result);
